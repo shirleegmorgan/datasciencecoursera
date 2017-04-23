@@ -1,2 +1,2 @@
 # datasciencecoursera
-Week 1 Assignment
+Peer-graded Assignment: Course Project
